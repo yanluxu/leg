@@ -1,0 +1,20 @@
+
+# BEGIN leg research defaults
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+checkpoints/*
+!checkpoints/.gitkeep
+data/*
+!data/.gitkeep
+videos/*
+!videos/.gitkeep
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+# END leg research defaults
